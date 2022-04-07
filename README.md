@@ -1,5 +1,6 @@
 # farconfig
-Far Manager v3.0 configurations
+Far Manager v3.0 portable configuration
+
 
 ## Installation
 * Product Features:
@@ -9,8 +10,6 @@ Far Manager v3.0 configurations
   * _[+] Plugin SDK_
 
 ## Configuration
-* Run Far
-* Close Far
 * Execute **deploy.bat**
 * Run Far
 * Save setup: **Shift+F9**
